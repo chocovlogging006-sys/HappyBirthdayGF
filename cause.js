@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "full of happiness, success, and love ,and I will always choose you  🥳 ", 
+        text: "I’m so lucky to have you in my life , and I will always choose you ❤️ 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
