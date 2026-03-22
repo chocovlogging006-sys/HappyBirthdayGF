@@ -1,7 +1,8 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "You are the best thing that ever happened to me.
+Every moment with you feels so special 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
