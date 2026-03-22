@@ -11,12 +11,12 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "From this birthday onward,I hope your life becomes even better,full of happiness, success, and love. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "No matter what happens,I will always choose you! 🥳 ", 
+        text: "full of happiness, success, and love ,and I will always choose you  🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
