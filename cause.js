@@ -1,13 +1,12 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You are the best thing that ever happened to me.
-Every moment with you feels so special 💖", 
+        text: "You are not just my girlfriend  💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "you are my happiness, my peace, my everything. 🙈 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
@@ -17,7 +16,7 @@ Every moment with you feels so special 💖",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "No matter what happens,I will always choose you! 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
